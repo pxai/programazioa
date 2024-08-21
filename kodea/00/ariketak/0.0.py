@@ -1,0 +1,1 @@
+print("Kaixo, Ada naiz")

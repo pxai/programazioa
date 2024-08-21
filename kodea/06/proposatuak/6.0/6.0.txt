@@ -1,0 +1,13 @@
+Eskatu nahi dudan programaren Python kodea itzuli Euskaraz, aldagaiak aldatu gabe:
+
+kontuz_sartu = "Sartu zenbakia: "
+zenbakia = input(kontuz_sartu)
+
+while not zenbakia.isdigit():
+    print("Sartutako balioa ez da zenbakia.")
+    zenbakia = input(kontuz_sartu)
+
+if int(zenbakia) % 2 == 0:
+    print("Sartutako zenbakia bikoitia da.")
+else:
+    print("Sartutako zenbakia bakoitia da.")
