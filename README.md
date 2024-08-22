@@ -1,5 +1,10 @@
 # Kodea ondo sartzek: programazioa ikasten
 
+[Web gunea](http://programazioa.pello.io/)
+
+[PDF bertsioa](http://programazioa.pello.io/liburua/programazioa_eu.pdf)
+[ODT bertsioa](http://programazioa.pello.io/liburua/programazioa_eu.odt)
+
 Liburuaren iturburu kodea:
 
 - Liburu testua: `liburua` direktorioan. (Markdown).
