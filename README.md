@@ -1,9 +1,10 @@
 # Kodea ondo sartzek: programazioa ikasten
 
-[Web gunea](http://programazioa.pello.io/)
+:globe_with_meridians: [Web gunea](http://programazioa.pello.io/)
 
-[PDF bertsioa](http://programazioa.pello.io/liburua/programazioa_eu.pdf)
-[ODT bertsioa](http://programazioa.pello.io/liburua/programazioa_eu.odt)
+:book: [PDF bertsioa](http://programazioa.pello.io/liburua/programazioa_eu.pdf)
+
+:memo: [ODT bertsioa](http://programazioa.pello.io/liburua/programazioa_eu.odt)
 
 Liburuaren iturburu kodea:
 
