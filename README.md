@@ -1,6 +1,6 @@
 # Kodea ondo sartzek: programazioa ikasten
 
-:globe_with_meridians: [Web gunea](http://programazioa.pello.io/)
+:globe_with_meridians: [Web gunea](http://pello.io/programazioa)
 
 :book: [PDF bertsioa](http://programazioa.pello.io/liburua/programazioa_eu.pdf)
 
