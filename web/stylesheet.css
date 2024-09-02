@@ -18,3 +18,14 @@ h1, h2, h3 {
     font-family: 'HVD Comic Serif Pro';
 }
 
+main {
+    width: 80%;
+    margin: 0 auto;
+    text-align: center;
+}
+
+main ul {
+    list-style-type: none;
+    padding: 0;
+}
+
