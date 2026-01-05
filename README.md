@@ -2,9 +2,9 @@
 
 :globe_with_meridians: [Web gunea](http://pello.io/programazioa)
 
-:book: [PDF bertsioa](http://programazioa.pello.io/liburua/programazioa_eu.pdf)
+:book: [PDF bertsioa](http://pello.io/programazioa/liburua/programazioa_eu.pdf)
 
-:memo: [ODT bertsioa](http://programazioa.pello.io/liburua/programazioa_eu.odt)
+:memo: [ODT bertsioa](http://pello.io/programazioa/liburua/programazioa_eu.odt)
 
 Liburuaren iturburu kodea:
 
